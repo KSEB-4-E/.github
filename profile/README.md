@@ -4,7 +4,8 @@
 ## 🛠️ Tech Stack
 
 이 프로젝트는 크롤링 기반 뉴스 요약 웹 애플리케이션입니다. MVP 형태로 제작되었으며, 총 개발 기간은 3주입니다.
-
+<div align="center">
+  
 | 분류 | 사용 기술 | 설명 |
 |------|-----------|------|
 | **Languages** | Python | 서버 로직, 크롤링, 요약 처리 |
@@ -18,4 +19,9 @@
 | **Deployment** | Render | 백엔드 배포 |
 |  | Vercel | 프론트엔드 정적 웹사이트 배포 |
 
+</div>
 
+----
+### 🏆 **KSEB 4기 I-MINI PROJECT 대상 수상작**
+
+![IMG_8595](https://github.com/user-attachments/assets/d2838d84-900e-41f4-972e-160a1f1ed12a)
