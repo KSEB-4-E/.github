@@ -1,10 +1,14 @@
 <img width="1189" alt="스크린샷 2025-06-23 오후 2 40 15" src="https://github.com/user-attachments/assets/0bb0cd35-6739-4c53-ad70-734c49a1f267" />
 <img width="1198" alt="스크린샷 2025-06-23 오후 2 41 37" src="https://github.com/user-attachments/assets/d7525408-9d66-411a-b92f-6bbf6d2d8e66" />
 
+<div align="center">
+  
 ## 🛠️ Tech Stack
 
-이 프로젝트는 크롤링 기반 뉴스 요약 웹 애플리케이션입니다. MVP 형태로 제작되었으며, 총 개발 기간은 3주입니다.
-<div align="center">
+이 프로젝트는 크롤링 기반 뉴스 요약 웹 애플리케이션입니다. 
+
+MVP 형태로 제작되었으며, 총 개발 기간은 3주입니다.
+
   
 | 분류 | 사용 기술 | 설명 |
 |------|-----------|------|
@@ -19,9 +23,9 @@
 | **Deployment** | Render | 백엔드 배포 |
 |  | Vercel | 프론트엔드 정적 웹사이트 배포 |
 
-</div>
-
 ----
 ### 🏆 **KSEB 4기 I-MINI PROJECT 대상 수상작**
 
-![IMG_8595](https://github.com/user-attachments/assets/d2838d84-900e-41f4-972e-160a1f1ed12a)
+<img src="https://github.com/user-attachments/assets/d2838d84-900e-41f4-972e-160a1f1ed12a" alt="설명" width="360"/>
+
+</div>
