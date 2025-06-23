@@ -9,6 +9,7 @@
 
 MVP 형태로 제작되었으며, 총 개발 기간은 3주입니다.
 
+🚀 **배포 링크**: [https://issue-one.vercel.app/](https://issue-one.vercel.app/)
   
 | 분류 | 사용 기술 | 설명 |
 |------|-----------|------|
@@ -29,3 +30,7 @@ MVP 형태로 제작되었으며, 총 개발 기간은 3주입니다.
 <img src="https://github.com/user-attachments/assets/d2838d84-900e-41f4-972e-160a1f1ed12a" alt="설명" width="360"/>
 
 </div>
+
+----
+
+
